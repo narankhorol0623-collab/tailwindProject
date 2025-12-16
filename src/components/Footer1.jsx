@@ -6,7 +6,7 @@ export const Footer1 = () => {
         <button className="h-7 w-[115px] bg-pink-300 rounded-2xl shadow-2xl">
           Get in touch
         </button>
-        <p className="text-gray-200 text-center md:text-4xl w-2xl">
+        <p className="text-gray-200 text-center w-full md:text-4xl ">
           What's next? Feel free to reach out to me if you're looking for a
           developer, have a query, or simply want to connect.
         </p>
