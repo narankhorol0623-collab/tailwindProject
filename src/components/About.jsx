@@ -1,11 +1,11 @@
 import React from "react";
 export const About = () => {
   return (
-    <div className="h-[1434px] md:h-[826px] md:w-full w-full bg-sky-300 flex flex-col md:gap-y-6 justify-evenly md:justify-center items-center ">
+    <div className="h-[1434px] md:h-[826px] md:w-full w-full bg-white flex flex-col md:gap-y-6 justify-evenly md:justify-center items-center ">
       <button className="h-7 w-[105px] bg-pink-300 rounded-2xl shadow-2xl">
         About me
       </button>
-      <div className="md: flex md:flex-row flex-col md:gap-x-12 p-5">
+      <div className="md: flex md:flex-row flex-col md:gap-x-30 p-5">
         <div className="flex flex-col md:flex-row p-4 md:justify-center md:items-center items-center justify-evenly ">
           <img
             src="mobpic2.png"

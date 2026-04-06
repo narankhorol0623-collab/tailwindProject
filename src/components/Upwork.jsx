@@ -1,7 +1,7 @@
 import React from "react";
 export const Upwork = () => {
   return (
-    <div className="bg-sky-300 w-full h-[1308px] flex flex-col justify-evenly items-center">
+    <div className="bg-white w-full h-[1308px] flex flex-col justify-evenly items-center">
       <div className="flex flex-col items-center">
         <button className="h-7 w-[115px] bg-pink-300 rounded-2xl shadow-2xl">
           Experience

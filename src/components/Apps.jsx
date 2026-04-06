@@ -2,7 +2,7 @@ import { stack } from "@/stacks/stack";
 
 export const Apps = () => {
   return (
-    <div className="bg-sky-300 md:h-[450px] h-[800px] md:w-full w-full flex flex-col  gap-4 items-center justify-evenly">
+    <div className="bg-white md:h-[450px] h-[800px] md:w-full w-full flex flex-col  gap-4 items-center justify-evenly">
       <button className="h-7 w-[75px] bg-pink-300 rounded-2xl shadow-2xl">
         Skills
       </button>

@@ -1,12 +1,12 @@
 import React from "react";
 export const Ubcab = () => {
   return (
-    <div className="h-[739px] md:h-[616px]  bg-sky-300 flex flex-col items-center justify-evenly">
+    <div className="h-[739px] md:h-[616px]  bg-white flex flex-col items-center justify-evenly ">
       <button className="h-7 w-[115px] bg-pink-300 rounded-2xl shadow-2xl">
         Work
       </button>
       <p>Some of the noteworthy projects I have built:</p>
-      <div className="flex flex-col md:flex-row items-center bg-white text-gray-800 rounded-2xl">
+      <div className="flex flex-col md:flex-row items-center bg-white text-gray-800 rounded-2xl shadow-2xl">
         <div className="h-64 w-[343px] md:h-[480px] md:w-xl bg-gray-50 rounded-2xl flex  justify-center items-center">
           <img
             src="ubcab.png"

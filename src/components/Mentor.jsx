@@ -1,9 +1,9 @@
 import React from "react";
 export const Mentor = () => {
   return (
-    <div className="h-[600px] md:h-[616px]  bg-sky-300 flex flex-col items-center justify-evenly">
-      <div className="flex flex-col md:flex-row items-center bg-white text-gray-800 rounded-2xl">
-        <div className="h-64 w-[343px] md:w-xl md:h-[480px] ">
+    <div className="h-[600px] md:h-[616px]  bg-white flex flex-col items-center justify-evenly">
+      <div className="flex flex-col md:flex-row items-center shadow-2xl bg-white text-gray-800 rounded-2xl">
+        <div className="h-64 w-[343px] md:w-xl md:h-[480px]">
           <div className="md:p-15 md:flex md:flex-col md:h-[500px] p-3 md:justify-evenly">
             <p className="md:text-2xl text-xl font-bold">Mentorhub</p>
             <p className="text-xs md:text-xl">
